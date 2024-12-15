@@ -1,0 +1,2 @@
+const dataJSON = '[{"id":1,"title":"Product1 ","description":"Description for product1","price":10.99,"image":"https://via.placeholder.com/150"},{"id":2,"title":"Product 2","description":"Description for product2","price":12.99,"image":"https://via.placeholder.com/150"},{"id":3,"title":"Product 3","description":"Description for product3","price":15.99,"image":"https://via.placeholder.com/150"}]';
+const data = JSON.parse(dataJSON);
